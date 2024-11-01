@@ -1,0 +1,21 @@
+.widget_wpDailyBurn table,
+.widget_wpDailyBurn table * {
+	background: none;
+	border: none;	
+}
+
+.widget_wpDailyBurn td {
+	vertical-align: middle;
+}
+
+.widget_wpDailyBurn td.wp-dailyburn-label {
+	font-weight: bold;
+}
+
+.widget_wpDailyBurn td.wp-dailyburn-img {
+	text-align: right;
+}
+
+.widget_wpDailyBurn td.wp-dailyburn-img img {
+	width: 13px;
+}
